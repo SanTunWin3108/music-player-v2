@@ -16,27 +16,27 @@ let currentSong = 0;
 const song_lists_arr = [
     {
         song_title: 'Viva la Vida - Cold Play',
-        song_src: '../Music/Coldplay - Viva la Vida (Lyrics).mp3'
+        song_src: './Music/Coldplay - Viva la Vida (Lyrics).mp3'
     },
 
     {
         song_title: 'To be with You - Mr Big',
-        song_src: '../Music/Mr Big - To be with you Lyrics.mp3'
+        song_src: './Music/Mr Big - To be with you Lyrics.mp3'
     },
 
     {
         song_title: 'Tease Me Please Me - Scorpions',
-        song_src: '../Music/Scorpions - Tease Me Please Me 《Lyrics》.mp3'
+        song_src: './Music/Scorpions - Tease Me Please Me 《Lyrics》.mp3'
     },
 
     {
         song_title: 'I Lay My Love On You - Westlife',
-        song_src: '../Music/Westlife - I Lay My Love On You (Lyrics).mp3'
+        song_src: './Music/Westlife - I Lay My Love On You (Lyrics).mp3'
     },
 
     {
         song_title: 'My Love - Westlife',
-        song_src: '../Music/Westlife - My Love (Lyrics).mp3'
+        song_src: './Music/Westlife - My Love (Lyrics).mp3'
     },
 ];
 
