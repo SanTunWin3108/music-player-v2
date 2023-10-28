@@ -1,0 +1,23 @@
+.play-lists li {
+    user-select: none;
+    cursor: pointer;
+}
+
+.music-progress, .volume {
+    width: 300px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.music-progress-bar, .volume-bar {
+    height: 4px;
+    margin-bottom: 30px;
+    width: 100%;
+    user-select: none;
+    cursor: pointer;
+}
+
+.music-progress-bar::-webkit-slider-runnable-track {
+    color: red;
+}
